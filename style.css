@@ -1,17 +1,8 @@
-header {
-    background-color: #FFE587
+.cabeçalho {
+    background-color: #383D58;
 }
 
 h1 {
-    margin-right: 20px;
-    color: white;
-    font-weight: 700;
-}
-
-h2 {
-    color: black;
-}
-
-img {
-    padding: 20px;
+    font-weight: 261;
+    overflow-x: auto;
 }
